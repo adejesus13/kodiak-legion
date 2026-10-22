@@ -27,3 +27,7 @@ Colors now use neon cyan (`#35D8F5`), hot pink (`#FF56AE`), and deep ocean navy 
 
 ## V6.3 color update
 The Miami Vice palette now includes electric blue `#147DFF` alongside vice pink `#FF56AE`, neon cyan `#35D8F5`, and ocean navy `#070E19`. Electric blue is used in gradients, secondary buttons, selected events, and focus outlines.
+
+
+## V6.4 crest branding
+The uploaded neon Kodiak Legion crest is included at `assets/kodiak-legion-crest.png` and displayed in the header, hero, and favicon. The smaller WebP is used for the hero to improve loading performance.

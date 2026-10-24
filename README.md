@@ -43,3 +43,6 @@ First practice is now **Sunday, October 25, 2026, 2:30–3:45 PM**, at Blue Lake
 
 ## V6.7 roster update
 Added eight-player public roster with first names, nicknames, jersey numbers, and **provisional** primary/secondary positions from the October 2026 roster spreadsheet. Full surnames, apparel sizes, payment/order fields, and player evaluations are intentionally excluded from this public static website.
+
+## V6.8 October 25 practice update
+Seven athletes are expected; Adrian Velasquez (#51) is absent but remains on the roster. Public pages show only the expected count, not which minor is absent. New `parents.html` provides parent/guardian instructions. The private coaching dashboard and printable PDF are **separate** and MUST NOT be committed to this public repository.
